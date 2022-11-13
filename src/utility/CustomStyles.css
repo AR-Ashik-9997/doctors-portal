@@ -1,0 +1,37 @@
+.margin-top {
+  margin-top: 8rem;
+}
+.primary-color {
+  background: linear-gradient(90deg, #19d3ae -22.5%, #0fcfec 120.83%);
+  border-radius: 8px;
+  border-color: aliceblue;
+}
+.info-image {
+  width: 80px;
+  height: 80px;
+}
+.card-size {
+  height: 150px;
+}
+.text-color {
+  color: #19d3ae;
+}
+.service-img {
+  width: 110px;
+  height: 110px;
+}
+.terms-image {
+  width: 576px;
+  height: 576px;
+}
+.text-justify {
+  text-align: justify;
+}
+.bg-appointment {
+  background: url("https://i.postimg.cc/xCq1xNF1/appointment.png");
+}
+.nagetive-image {
+  margin-top: -6rem !important;
+  width: 600px;
+  height: 600px;
+}
